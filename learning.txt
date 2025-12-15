@@ -1,3 +1,4 @@
 What I have learned from this course
 version control and its ecosystem. I have learnt how to log different
-projects on Git Hub and control their versions using the ecosystem. 
+projects on Git Hub and control their versions using the ecosystem.
+How to creating local repo is the major skill I have learned on git bash. 
