@@ -1,2 +1,3 @@
-I have learnt version control and its ecosystem. I have learnt how to log different
-projects on Git Hub and control its versions using the ecosystem. 
+What I have learned from this course
+version control and its ecosystem. I have learnt how to log different
+projects on Git Hub and control their versions using the ecosystem. 
